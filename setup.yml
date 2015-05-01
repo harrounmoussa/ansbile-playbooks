@@ -3,7 +3,7 @@
   user: root
   
   roles:
-#    - basic
+    - basic
     - vpn
     - proxy
 

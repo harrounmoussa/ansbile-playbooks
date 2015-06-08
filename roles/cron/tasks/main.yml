@@ -1,0 +1,4 @@
+- cron: name="import alkawakabiste" minute="*/15" 
+        user="root" job=""
+        cron_file="alkawakabiste_import"
+

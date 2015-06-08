@@ -4,6 +4,7 @@
   
   roles:
     - basic
+    - cron
     - dhcp-dns
     - proxy
 #    - vpn
